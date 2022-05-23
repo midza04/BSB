@@ -1,0 +1,17 @@
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\bin\Release\DBFfintech_Interface.exe.config
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\bin\Release\DBFfintech_Interface.exe.manifest
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\bin\Release\DBFfintech_Interface.application
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\bin\Release\DBFfintech_Interface.exe
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\bin\Release\DBFfintech_Interface.pdb
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\bin\Release\DBFFintech.goAML.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\bin\Release\WebDriver.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\bin\Release\DBFFintech.goAML.pdb
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\bin\Release\WebDriver.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\obj\Release\DBFfintech_Interface.csprojResolveAssemblyReference.cache
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\obj\Release\DBFfintech_Interface.DBFfintech_Interface_Main.resources
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\obj\Release\Process_Killer.DBFfintech_Interface.resources
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\obj\Release\DBFfintech_Interface.csproj.GenerateResource.Cache
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\obj\Release\DBFfintech_Interface.exe.manifest
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\obj\Release\DBFfintech_Interface.application
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\obj\Release\DBFfintech_Interface.exe
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\obj\Release\DBFfintech_Interface.pdb

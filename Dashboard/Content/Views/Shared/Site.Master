@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!DOCTYPE html>
+<html lang="en">
+    <head id="Head1" runat="server">
+        <meta charset="utf-8" />
+        <title>DBFfintech - <asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+        <link type="image/png" href="http://www.bsb.bw/sites/default/files/logo_0.png" rel="shortcut icon">
+        <meta name="viewport" content="width=device-width" />
+        <%--<%: Styles.Render("~/Content/css") %>--%>
+        <%: Styles.Render("~/Content/themes/dashboard")%>
+        <%: Scripts.Render("~/bundles/modernizr")%>
+        <%: Scripts.Render("~/bundles/dashboard")%>
+    </head>
+    <body>
+	<div class="brand clearfix">
+		<a href="index.html" class="logo"><img src="<%: Url.Content("~/Content/Images/logo.png") %>" class="img-responsive" alt=""></a>
+		<span class="menu-btn"><i class="fa fa-bars"></i></span>
+        <img src="<%: Url.Content("~/Content/Images/dbffintech.jpg") %>"  style="text-align:center;"/>
+		<ul class="ts-profile-nav">		
+			<%--<li><a href="#">Settings</a></li>--%>
+			<li class="ts-account">
+				<a href="#"><%--<img src="img/ts-avatar.jpg" class="ts-avatar hidden-side" alt=""> --%>Account <i class="fa fa-angle-down hidden-side"></i></a>
+				<ul>
+					<%--<li><a href="#">My Account</a></li>
+					<li><a href="#">Edit Account</a></li>--%>
+					<li><a href="<%: Url.Action("Logout", "Login") %>" >Logout</a></li>                    
+				</ul>
+			</li>
+		</ul>
+	</div>
+
+	<div class="ts-main-content">
+		<nav class="ts-sidebar">
+            <% Html.RenderAction("MainMenuPartial", "Navigation"); %>
+            <div class="nav-bottom" >
+                <img src="<%: Url.Content("~/Content/Images/dbffintech.jpg") %>" style="width: 100%;"/>
+            </div>
+		</nav>
+		<div class="content-wrapper">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12">            						                        
+						<div class="row">
+                            <asp:ContentPlaceHolder ID="FeaturedContent" runat="server" />
+						</div>                        
+                        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+    <asp:ContentPlaceHolder ID="ScriptsSection" runat="server" />	
+</body>
+
+</html>

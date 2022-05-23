@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95f25c1d-f48f-421f-95fe-31441c3e4081": {
+      "ProjectGuid": "95f25c1d-f48f-421f-95fe-31441c3e4081",
+      "DisplayName": "DBFFintech.goAML",
+      "ColorIndex": 0
+    },
+    "bbec9631-75b2-451e-b806-d4fb0aac8037": {
+      "ProjectGuid": "bbec9631-75b2-451e-b806-d4fb0aac8037",
+      "DisplayName": "Dashboard",
+      "ColorIndex": 1
+    },
+    "68762f93-f3fc-4f08-86a5-38c0e8d16374": {
+      "ProjectGuid": "68762f93-f3fc-4f08-86a5-38c0e8d16374",
+      "DisplayName": "DBFfintech_Interface_Portal",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

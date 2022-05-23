@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFfintech_Interface_Portal.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\App.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\App.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\App.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\App.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\App.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\App.config" />
+  <event action="Analyze" type="Success" name="App.config" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\App.config" />
+  <event action="Analyze" type="Success" name="DBFfintech_Interface_Main.resx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFfintech_Interface_Main.resx" />
+  <event action="Analyze" type="Success" name="DBFfintech_Interface_Portal.resx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFfintech_Interface_Portal.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\packages.config" />
+  <event action="Analyze" type="Success" name="DBFfintech_Interface_Portal" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFfintech_Interface_Portal.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Dashboard.csproj" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\packages.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_ChangePasswordPartial.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_ChangePasswordPartial.aspx" />
+  <event action="Analyze" type="Success" name="_ChangePasswordPartial.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_ChangePasswordPartial.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_ExternalLoginsListPartial.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_ExternalLoginsListPartial.aspx" />
+  <event action="Analyze" type="Success" name="_ExternalLoginsListPartial.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_ExternalLoginsListPartial.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_RemoveExternalLoginsPartial.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_RemoveExternalLoginsPartial.aspx" />
+  <event action="Analyze" type="Success" name="_RemoveExternalLoginsPartial.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_RemoveExternalLoginsPartial.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_SetPasswordPartial.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_SetPasswordPartial.aspx" />
+  <event action="Analyze" type="Success" name="_SetPasswordPartial.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\_SetPasswordPartial.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\ExternalLoginConfirmation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\ExternalLoginConfirmation.aspx" />
+  <event action="Analyze" type="Success" name="ExternalLoginConfirmation.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\ExternalLoginConfirmation.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\ExternalLoginFailure.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\ExternalLoginFailure.aspx" />
+  <event action="Analyze" type="Success" name="ExternalLoginFailure.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\ExternalLoginFailure.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\Login.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\Login.aspx" />
+  <event action="Analyze" type="Success" name="Login.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\Login.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\Manage.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\Manage.aspx" />
+  <event action="Analyze" type="Success" name="Manage.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\Manage.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\Register.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\Register.aspx" />
+  <event action="Analyze" type="Success" name="Register.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Account\Register.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Add.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Add.aspx" />
+  <event action="Analyze" type="Success" name="Add.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Add.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Delete.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Delete.aspx" />
+  <event action="Analyze" type="Success" name="Delete.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Delete.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Edit.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Edit.aspx" />
+  <event action="Analyze" type="Success" name="Edit.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Edit.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Index.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Index.aspx" />
+  <event action="Analyze" type="Success" name="Index.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\Index.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\New.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\New.aspx" />
+  <event action="Analyze" type="Success" name="New.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\EmailRecipients\New.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Home\About.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Home\About.aspx" />
+  <event action="Analyze" type="Success" name="About.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Home\About.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Home\Contact.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Home\Contact.aspx" />
+  <event action="Analyze" type="Success" name="Contact.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Home\Contact.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Home\Index.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Home\Index.aspx" />
+  <event action="Analyze" type="Success" name="Index.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Home\Index.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Logger\Index.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Logger\Index.aspx" />
+  <event action="Analyze" type="Success" name="Index.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Logger\Index.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Login\Index.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Login\Index.aspx" />
+  <event action="Analyze" type="Success" name="Index.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Login\Index.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Reports\Index.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Reports\Index.aspx" />
+  <event action="Analyze" type="Success" name="Index.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Reports\Index.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Settings\Emails.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Settings\Emails.aspx" />
+  <event action="Analyze" type="Success" name="Emails.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Settings\Emails.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Settings\Index.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Settings\Index.aspx" />
+  <event action="Analyze" type="Success" name="Index.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Settings\Index.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\_LoginPartial.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\_LoginPartial.aspx" />
+  <event action="Analyze" type="Success" name="_LoginPartial.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\_LoginPartial.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\Error.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\Error.aspx" />
+  <event action="Analyze" type="Success" name="Error.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\Error.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\MainMenuPartial.ascx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\MainMenuPartial.ascx" />
+  <event action="Analyze" type="Success" name="MainMenuPartial.ascx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\MainMenuPartial.ascx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\Site.Master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\Site.Master" />
+  <event action="Analyze" type="Success" name="Site.Master" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Shared\Site.Master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Uploads\Index.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Uploads\Index.aspx" />
+  <event action="Analyze" type="Success" name="Index.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Uploads\Index.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Uploads\UploadedFilesPartial.ascx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Uploads\UploadedFilesPartial.ascx" />
+  <event action="Analyze" type="Success" name="UploadedFilesPartial.ascx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Uploads\UploadedFilesPartial.ascx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\Delete.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\Delete.aspx" />
+  <event action="Analyze" type="Success" name="Delete.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\Delete.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\Edit.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\Edit.aspx" />
+  <event action="Analyze" type="Success" name="Edit.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\Edit.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\Index.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\Index.aspx" />
+  <event action="Analyze" type="Success" name="Index.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\Index.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\New.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\New.aspx" />
+  <event action="Analyze" type="Success" name="New.aspx" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Users\New.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Dashboard" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\Dashboard.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\DBFFintech.goAML.csproj" />
+  <event action="Analyze" type="Success" name="DBFFintech.goAML" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\DBFFintech.goAML.csproj" />
+  <event action="Analyze" type="Success" name="DBFfintech_Interface_Portal" path="C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFfintech_Interface_Portal.sln" />
+</log>

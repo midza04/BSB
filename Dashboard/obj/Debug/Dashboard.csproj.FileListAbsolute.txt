@@ -1,0 +1,507 @@
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Dashboard.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Dashboard.pdb
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Antlr3.Runtime.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.AspNet.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.Core.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.OAuth.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.OpenId.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\EntityFramework.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.Web.Infrastructure.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Newtonsoft.Json.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Net.Http.Formatting.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Helpers.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Http.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Http.WebHost.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Mvc.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Optimization.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Razor.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.WebPages.Deployment.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.WebPages.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.WebPages.Razor.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\WebGrease.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\WebMatrix.Data.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\WebMatrix.WebData.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\EntityFramework.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Newtonsoft.Json.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Net.Http.Formatting.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Helpers.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Http.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Http.WebHost.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Mvc.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.Razor.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.WebPages.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.WebPages.Deployment.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\System.Web.WebPages.Razor.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\WebMatrix.Data.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\WebMatrix.WebData.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.AspNet.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.Core.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.OAuth.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.OpenId.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\obj\Debug\Dashboard.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.Owin.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.Owin.Security.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Owin.dll
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.Owin.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Dev\DBFFintech\goAML\Dashboard\Dashboard\bin\Microsoft.Owin.Security.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\Dashboard.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\Dashboard.pdb
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\Microsoft.Web.Infrastructure.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Net.Http.Formatting.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Helpers.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Http.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Http.WebHost.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Mvc.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Razor.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.WebPages.Deployment.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.WebPages.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.WebPages.Razor.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\WebMatrix.Data.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\WebMatrix.WebData.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\Microsoft.Web.Infrastructure.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Net.Http.Formatting.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Helpers.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Http.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Http.WebHost.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Mvc.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.Razor.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.WebPages.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.WebPages.Deployment.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\System.Web.WebPages.Razor.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\WebMatrix.Data.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\WebMatrix.WebData.xml
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\obj\Debug\Dashboard.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\obj\Debug\Dashboard.pdb
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\DBFFintech.goAML.dll
+F:\Dev\DBFFintech\goAML\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK\Dashboard\bin\DBFFintech.goAML.pdb
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll.config
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.pdb
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Antlr3.Runtime.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Owin.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Optimization.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebGrease.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.pdb
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.xml
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.pdb
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll.config
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.pdb
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Antlr3.Runtime.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Owin.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Optimization.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebGrease.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.pdb
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.xml
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll.licenses
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.pdb
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll.config
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.pdb
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Antlr3.Runtime.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Owin.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Optimization.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebGrease.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.pdb
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.xml
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll.licenses
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.pdb
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll.config
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.pdb
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Antlr3.Runtime.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.Infrastructure.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Owin.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Optimization.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebGrease.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.pdb
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.xml
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll.licenses
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll
+D:\SoftwareDev\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll.config
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.pdb
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Antlr3.Runtime.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Owin.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Optimization.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebGrease.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.pdb
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.xml
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll.licenses
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.pdb
+C:\SoftwareDev\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\SoftwareDev\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\SoftwareDev\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll.config
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Dashboard.pdb
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Antlr3.Runtime.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Owin.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Optimization.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebGrease.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DBFFintech.goAML.pdb
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Owin.Security.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Newtonsoft.Json.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\EntityFramework.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Net.Http.Formatting.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Helpers.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Http.WebHost.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Mvc.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.Razor.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Deployment.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\System.Web.WebPages.Razor.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.Data.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\WebMatrix.WebData.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.AspNet.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.Core.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OAuth.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Org.Mentalis.Security.Cryptography.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\bin\Mono.Math.xml
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll.licenses
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.pdb
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache

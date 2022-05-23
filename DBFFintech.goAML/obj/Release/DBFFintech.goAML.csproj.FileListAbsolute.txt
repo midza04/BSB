@@ -1,0 +1,29 @@
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.pdb
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.dll
+C:\SoftwareDev\goAML\BW\Steve\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.pdb
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.pdb
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.csprojResolveAssemblyReference.cache
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.dll
+C:\SoftwareDEV\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.pdb
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.pdb
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.dll
+C:\SoftwareDEV\goAML\BW\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.pdb
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.pdb
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.csprojResolveAssemblyReference.cache
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.dll
+C:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.pdb
+D:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.dll
+D:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.pdb
+D:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.csprojResolveAssemblyReference.cache
+D:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.dll
+D:\Users\Militant Saungweme\Documents\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.pdb
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\bin\Release\DBFFintech.goAML.pdb
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.csproj.CoreCompileInputs.cache
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.dll
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.pdb
+C:\SoftwareDev\BSB\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\goAML_FCUBS_Windows_Service_CASH_DEPOSIT_OK - TFS\DBFFintech.goAML\obj\Release\DBFFintech.goAML.csproj.AssemblyReference.cache
