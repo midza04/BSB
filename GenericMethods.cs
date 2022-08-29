@@ -25,8 +25,6 @@ namespace DBFfintech_Interface_Portal
 
 
         public static int UserID;
-
-
         //This will store the Ratings to the Catche when there is no Network Connections
         //public static List<DataLayer.RatingModel> CatchedRatings = new List<DataLayer.RatingModel>(); 
         #region "Common Functions"
